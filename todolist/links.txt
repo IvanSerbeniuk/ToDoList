@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=sm1mokevMWk&ab_channel=TechWithTim
+
+
+дать функционал удаления ToDoList юзеру
